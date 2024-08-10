@@ -1,10 +1,10 @@
 {
     "MysqlConfig": {
-        "host": "127.0.0.1",
-        "prot":"3306",
-        "user": "root",
-        "password": "admin123",
-        "database": "xunqi",
+        "host": "freetier-01.cn-hangzhou.cluster.matrixonecloud.cn",
+        "prot":"6001",
+        "user": "01913d6b-7a77-74ec-8b91-64e75d166fa4:admin:accountadmin",
+        "password": "Skt1688@@123456",
+        "database": "imapp",
         "multipleStatements": true
     },
     "jwtConfig":{
