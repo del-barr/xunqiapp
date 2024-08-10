@@ -1,7 +1,7 @@
 {
     "MysqlConfig": {
-        "host": "mysql.zeabur.internal",
-        "prot":"3306",
+        "host": "ewr1.clusters.zeabur.com",
+        "prot":"31399",
         "user": "root",
         "password": "13rdq97LkC62bS8tcTjAf40u5ziHwWQh",
         "database": "zeabur",
