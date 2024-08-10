@@ -94,6 +94,6 @@ app.use('/static', express.static('./web/image'));
 app.use('/', express.static('./web/dist'));
 
 /* 启动服务器 */
-app.listen(3008, () => {
-  console.log("you server is running. 127.0.0.1:3008");
+app.listen(8080, () => {
+  console.log("you server is running. 127.0.0.1:8080");
 });
