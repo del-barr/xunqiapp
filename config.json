@@ -1,10 +1,10 @@
 {
     "MysqlConfig": {
-        "host": "freetier-01.cn-hangzhou.cluster.matrixonecloud.cn",
-        "prot":"6001",
-        "user": "01913d6b-7a77-74ec-8b91-64e75d166fa4:admin:accountadmin",
-        "password": "Skt1688@@123456",
-        "database": "imapp",
+        "host": "mysql.zeabur.internal",
+        "prot":"3306",
+        "user": "root",
+        "password": "13rdq97LkC62bS8tcTjAf40u5ziHwWQh",
+        "database": "zeabur",
         "multipleStatements": true
     },
     "jwtConfig":{
