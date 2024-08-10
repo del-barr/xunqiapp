@@ -1,0 +1,14 @@
+{
+    "MysqlConfig": {
+        "host": "127.0.0.1",
+        "prot":"3306",
+        "user": "root",
+        "password": "admin123",
+        "database": "xunqi",
+        "multipleStatements": true
+    },
+    "jwtConfig":{
+        "jwtSecretKey":"babadawosa",
+        "expiresIn":"300h"
+    }
+}
